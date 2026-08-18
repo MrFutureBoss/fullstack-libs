@@ -1,4 +1,6 @@
 # Install Simple Icons
+
+```bash
 npm install simple-icons
 
 Simple Icons provides **SVG icons for popular brands and services**.
